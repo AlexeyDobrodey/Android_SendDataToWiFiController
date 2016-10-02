@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content">
+
+    <EditText
+        android:id="@+id/id_edit_purchase"
+        android:layout_height="wrap_content"
+        android:layout_width="0dp"
+        android:layout_weight="4"
+        android:gravity="center"
+        android:inputType="numberDecimal"
+        android:textSize="21sp"
+        />
+    <TextView
+        android:id="@+id/id_txt_name_currency"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        />
+
+    <EditText
+        android:id="@+id/id_edit_sale"
+        android:layout_height="wrap_content"
+        android:layout_width="0dp"
+        android:layout_weight="4"
+        android:gravity="center"
+        android:inputType="numberDecimal"
+        android:textSize="21sp"
+        />
+</LinearLayout>

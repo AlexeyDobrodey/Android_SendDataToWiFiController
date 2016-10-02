@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_item_reset"
+        android:title="@string/menu_item_title_reset_data"
+        />
+    <item
+        android:id="@+id/menu_item_network"
+        android:title="@string/menu_item_title_network"
+        />
+    <item
+        android:id="@+id/menu_item_time_luminance"
+        android:title="@string/menu_item_title_time_luminance"
+        />
+    <item
+        android:id="@+id/menu_item_adjust_time"
+        android:title="@string/menu_item_title_adjust_time"
+        />
+</menu>

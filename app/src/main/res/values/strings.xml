@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DR</string>
+
+    <string name="menu_item_title_network">Сеть</string>
+    <string name="menu_item_title_time_luminance">Установка Яркости</string>
+    <string name="menu_item_title_adjust_time">Установка Времени</string>
+    <string name="menu_item_title_reset_data">Востановление</string>
+
+    <string name="title_dialog_input_pass">Пароль</string>
+
+    <string name= "IP_DEFAULT">10.189.189.189</string>
+
+    <string name= "txt_btn_send">Отправить</string>
+
+</resources>

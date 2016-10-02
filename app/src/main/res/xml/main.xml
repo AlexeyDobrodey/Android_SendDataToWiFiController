@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- typeProgram is two modes CE (currency exchange) and AZS-->
+<data version ="1.0" typeProgram = "CE">
+    <project typeController="6W2" typeColor="single">
+        <areas>
+            <area width="32" height="16" font="CE 32x16" color="red" orientation="horizontal" mCharSpacing="1" alignSpacing="0" startLineSpacing="0">
+                <positionsOfInitialBytes>
+                    <positionInitialBytes>1128</positionInitialBytes>
+                </positionsOfInitialBytes>
+            </area>
+            <area width="32" height="16" font="CE 32x16" color="red" orientation="horizontal" mCharSpacing="1" alignSpacing="0" startLineSpacing="0">
+                <positionsOfInitialBytes>
+                    <positionInitialBytes>1256</positionInitialBytes>
+                </positionsOfInitialBytes>
+            </area>
+            <area width="32" height="16" font="CE 32x16" color="red" orientation="horizontal" mCharSpacing="1" alignSpacing="0" startLineSpacing="0">
+                <positionsOfInitialBytes>
+                    <positionInitialBytes>1384</positionInitialBytes>
+                </positionsOfInitialBytes>
+            </area>
+            <area width="32" height="16" font="CE 32x16" color="red" orientation="horizontal" mCharSpacing="1" alignSpacing="0" startLineSpacing="0">
+                <positionsOfInitialBytes>
+                    <positionInitialBytes>1512</positionInitialBytes>
+                </positionsOfInitialBytes>
+            </area>
+            <area width="32" height="16" font="CE 32x16" color="red" orientation="horizontal" mCharSpacing="1" alignSpacing="0" startLineSpacing="0">
+                <positionsOfInitialBytes>
+                    <positionInitialBytes>1640</positionInitialBytes>
+                </positionsOfInitialBytes>
+            </area>
+            <area width="32" height="16" font="CE 32x16" color="red" orientation="horizontal" mCharSpacing="1" alignSpacing="0" startLineSpacing="0">
+                <positionsOfInitialBytes>
+                    <positionInitialBytes>1768</positionInitialBytes>
+                </positionsOfInitialBytes>
+            </area>
+        </areas>
+        <labels>
+            <label>USD</label>
+            <label>EUR</label>
+            <label>RUB</label>
+        </labels>
+        <packets>
+            <packet change = "false">TEST</packet>
+			<packet change = "true">TEST</packet>
+		</packets>
+    </project>
+</data>

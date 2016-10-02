@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Seasons>
+    <Season name = "Winter">
+        <times>
+            <time>6:30</time>
+            <time>9:00</time>
+            <time>16:30</time>
+            <time>19:00</time>
+        </times>
+        <luminances>
+            <luminance>40</luminance>
+            <luminance>80</luminance>
+            <luminance>30</luminance>
+            <luminance>12.5</luminance>
+        </luminances>
+    </Season>
+    <Season name = "Spring">
+        <times>
+            <time>5:00</time>
+            <time>8:00</time>
+            <time>18:00</time>
+            <time>21:30</time>
+        </times>
+        <luminances>
+            <luminance>45</luminance>
+            <luminance>95</luminance>
+            <luminance>35</luminance>
+            <luminance>12.5</luminance>
+        </luminances>
+    </Season>
+    <Season name = "Summer">
+        <times>
+            <time>4:30</time>
+            <time>7:30</time>
+            <time>20:00</time>
+            <time>21:30</time>
+        </times>
+        <luminances>
+            <luminance>50</luminance>
+            <luminance>95</luminance>
+            <luminance>35</luminance>
+            <luminance>12.5</luminance>
+        </luminances>
+    </Season>
+    <Season name = "Autumn">
+        <times>
+            <time>6:00</time>
+            <time>7:30</time>
+            <time>18:00</time>
+            <time>20:30</time>
+        </times>
+        <luminances>
+            <luminance>45</luminance>
+            <luminance>95</luminance>
+            <luminance>30</luminance>
+            <luminance>12.5</luminance>
+        </luminances>
+    </Season>
+</Seasons>
